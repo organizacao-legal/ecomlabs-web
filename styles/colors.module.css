@@ -1,0 +1,180 @@
+.primary {
+  background-color: var(--md-sys-color-primary);
+}
+.primarytext {
+  color: var(--md-sys-color-primary);
+}
+.onprimary {
+  background-color: var(--md-sys-color-on-primary);
+}
+.onprimarytext {
+  color: var(--md-sys-color-on-primary);
+}
+.primarycontainer {
+  background-color: var(--md-sys-color-primary-container);
+}
+.primarycontainertext {
+  color: var(--md-sys-color-primary-container);
+}
+.onprimarycontainer {
+  background-color: var(--md-sys-color-on-primary-container);
+}
+.onprimarycontainertext {
+  color: var(--md-sys-color-on-primary-container);
+}
+.secondary {
+  background-color: var(--md-sys-color-secondary);
+}
+.secondarytext {
+  color: var(--md-sys-color-secondary);
+}
+.onsecondary {
+  background-color: var(--md-sys-color-on-secondary);
+}
+.onsecondarytext {
+  color: var(--md-sys-color-on-secondary);
+}
+.secondarycontainer {
+  background-color: var(--md-sys-color-secondary-container);
+}
+.secondarycontainertext {
+  color: var(--md-sys-color-secondary-container);
+}
+.onsecondarycontainer {
+  background-color: var(--md-sys-color-on-secondary-container);
+}
+.onsecondarycontainertext {
+  color: var(--md-sys-color-on-secondary-container);
+}
+.tertiary {
+  background-color: var(--md-sys-color-tertiary);
+}
+.tertiarytext {
+  color: var(--md-sys-color-tertiary);
+}
+.ontertiary {
+  background-color: var(--md-sys-color-on-tertiary);
+}
+.ontertiarytext {
+  color: var(--md-sys-color-on-tertiary);
+}
+.tertiarycontainer {
+  background-color: var(--md-sys-color-tertiary-container);
+}
+.tertiarycontainertext {
+  color: var(--md-sys-color-tertiary-container);
+}
+.ontertiarycontainer {
+  background-color: var(--md-sys-color-on-tertiary-container);
+}
+.ontertiarycontainertext {
+  color: var(--md-sys-color-on-tertiary-container);
+}
+.error {
+  background-color: var(--md-sys-color-error);
+}
+.errortext {
+  color: var(--md-sys-color-error);
+}
+.errorcontainer {
+  background-color: var(--md-sys-color-error-container);
+}
+.errorcontainertext {
+  color: var(--md-sys-color-error-container);
+}
+.onerror {
+  background-color: var(--md-sys-color-on-error);
+}
+.onerrortext {
+  color: var(--md-sys-color-on-error);
+}
+.onerrorcontainer {
+  background-color: var(--md-sys-color-on-error-container);
+}
+.onerrorcontainertext {
+  color: var(--md-sys-color-on-error-container);
+}
+.background {
+  background-color: var(--md-sys-color-background);
+}
+.backgroundtext {
+  color: var(--md-sys-color-background);
+}
+.onbackground {
+  background-color: var(--md-sys-color-on-background);
+}
+.onbackgroundtext {
+  color: var(--md-sys-color-on-background);
+}
+.surface {
+  background-color: var(--md-sys-color-surface);
+}
+.surfacetext {
+  color: var(--md-sys-color-surface);
+}
+.onsurface {
+  background-color: var(--md-sys-color-on-surface);
+}
+.onsurfacetext {
+  color: var(--md-sys-color-on-surface);
+}
+.surfacevariant {
+  background-color: var(--md-sys-color-surface-variant);
+}
+.surfacevarianttext {
+  color: var(--md-sys-color-surface-variant);
+}
+.onsurfacevariant {
+  background-color: var(--md-sys-color-on-surface-variant);
+}
+.onsurfacevarianttext {
+  color: var(--md-sys-color-on-surface-variant);
+}
+.outline {
+  background-color: var(--md-sys-color-outline);
+}
+.outlinetext {
+  color: var(--md-sys-color-outline);
+}
+.inverseonsurface {
+  background-color: var(--md-sys-color-inverse-on-surface);
+}
+.inverseonsurfacetext {
+  color: var(--md-sys-color-inverse-on-surface);
+}
+.inversesurface {
+  background-color: var(--md-sys-color-inverse-surface);
+}
+.inversesurfacetext {
+  color: var(--md-sys-color-inverse-surface);
+}
+.inverseprimary {
+  background-color: var(--md-sys-color-inverse-primary);
+}
+.inverseprimarytext {
+  color: var(--md-sys-color-inverse-primary);
+}
+.shadow {
+  background-color: var(--md-sys-color-shadow);
+}
+.shadowtext {
+  color: var(--md-sys-color-shadow);
+}
+.surfacetint {
+  background-color: var(--md-sys-color-surface-tint);
+}
+.surfacetinttext {
+  color: var(--md-sys-color-surface-tint);
+}
+.outlinevariant {
+  background-color: var(--md-sys-color-outline-variant);
+}
+.outlinevarianttext {
+  color: var(--md-sys-color-outline-variant);
+}
+.scrim {
+  background-color: var(--md-sys-color-scrim);
+}
+.scrimtext {
+  color: var(--md-sys-color-scrim);
+}
